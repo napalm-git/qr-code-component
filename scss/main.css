@@ -45,4 +45,11 @@ body {
   line-height: 1.5;
   font-weight: 700;
   padding: 0 2rem;
+}
+.qr-code-container p {
+  font-size: 1.5rem;
+  color: hsl(220, 15%, 55%);
+  margin: 2rem 0;
+  font-weight: 400;
+  padding: 0 2rem;
 }/*# sourceMappingURL=main.css.map */
