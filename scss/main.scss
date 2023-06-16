@@ -17,3 +17,17 @@ body {
   font-family: "Outfit", sans-serif;
   overflow-y: hidden;
 }
+
+.qr-code-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  border-radius: 15px;
+  height: 440px;
+  width: 270px;
+  padding: 0;
+  box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.1);
+}
