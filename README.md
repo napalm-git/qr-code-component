@@ -2,7 +2,7 @@
 
 **My Attempt at FrontEnd Mentor | QR Code component Challenge**
 
-In this project i utilize SCSS to style my page.
+In this project i utilize SCSS to style my page
 
 It is a single component consist of a qr code image and below that its explanation.
 
