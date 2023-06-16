@@ -37,4 +37,13 @@ body {
     object-fit: cover;
     border-radius: 15px;
   }
+
+  h1 {
+    font-size: 1.8rem;
+    color: hsl(218, 44%, 22%);
+    margin-top: 2rem;
+    line-height: 1.5;
+    font-weight: 700;
+    padding: 0 2rem;
+  }
 }
