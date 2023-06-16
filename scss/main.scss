@@ -30,4 +30,11 @@ body {
   width: 270px;
   padding: 0;
   box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.1);
+
+  img {
+    width: 90%;
+    height: 55%;
+    object-fit: cover;
+    border-radius: 15px;
+  }
 }
