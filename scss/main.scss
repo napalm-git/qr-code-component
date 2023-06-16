@@ -6,3 +6,14 @@ html {
   box-sizing: border-box;
   margin: 0;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: hsl(215, 46%, 89%);
+  font-family: "Outfit", sans-serif;
+  overflow-y: hidden;
+}
