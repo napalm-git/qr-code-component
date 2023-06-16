@@ -1,6 +1,6 @@
 # QR CODE COMPONENT
 
-My Attempt at FrontEnd Mentor | QR Code component Challenge
+**My Attempt at FrontEnd Mentor | QR Code component Challenge**
 
 In this project i utilize SCSS to style my page.
 
